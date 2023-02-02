@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-multilevel-dropdown-menu/static/css/main.49043b64.css",
+    "main.js": "/react-multilevel-dropdown-menu/static/js/main.b49e2ece.js",
+    "static/media/undraw_empty_cart.svg": "/react-multilevel-dropdown-menu/static/media/undraw_empty_cart.b5055e56282bba2de480b7282277f3f9.svg",
+    "index.html": "/react-multilevel-dropdown-menu/index.html",
+    "main.49043b64.css.map": "/react-multilevel-dropdown-menu/static/css/main.49043b64.css.map",
+    "main.b49e2ece.js.map": "/react-multilevel-dropdown-menu/static/js/main.b49e2ece.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49043b64.css",
+    "static/js/main.b49e2ece.js"
+  ]
+}
